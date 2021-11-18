@@ -1,2 +1,2 @@
-# main
-Main website
+# crane-co
+Website for CRANE Collective at NCSU
